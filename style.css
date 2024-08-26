@@ -1,0 +1,26 @@
+body {
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+#cropContainer {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+#croppedImage {
+  border: 2px solid #ddd;
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 5px;
+}
